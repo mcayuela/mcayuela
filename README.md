@@ -20,7 +20,7 @@ Here are some technologies I've been working with recently:
 
 ### Projects
 
-- 🚧 Dinner Control App: Corrección: Recently, I've been working on this new project. It's a dinner control app designed to help people manage family or business dinners, keeping track of who has paid and who hasn't, among other features.
+- 🚧 Dinner Control App: Recently, I've been working on this new project. It's a dinner control app designed to help people manage family or business dinners, keeping track of who has paid and who hasn't, among other features.
 - 🚀 Web creation: I've been working on improving my web programming skills by creating some projects, and in this project, I will develop a blog, a to-do task list web, and more things..
 
 ### Let's Connect!
