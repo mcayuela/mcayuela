@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Marcel, a passionate programmer and tech enthusiast. Welcome to my GitHub profile! 🚀
+I'm Marcel, a passionate programmer and tech enthusiast and my dream is to be a frontend programmer. Welcome to my GitHub profile! 🚀
 
 ### About Me
 
