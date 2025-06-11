@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="#en">🇪🇺 EN</a> · 
-  <a href="#cat">🇨🇦 CAT</a> · 
+  <a href="#en">🇺🇸 EN</a> · 
+  <a href="#cat">🎗️ CAT</a> · 
   <a href="#es">🇪🇸 ES</a>
 </p>
 
 ---
 
-## 🇪🇺 EN
+## 🇺🇸 EN
 <span id="en"></span>
 
 ### 👋 Hi, I'm Marcel Cayuela
@@ -41,7 +41,7 @@
 
 ---
 
-## 🇨🇦 CAT
+## 🎗️ CAT
 <span id="cat"></span>
 
 ### 👋 Hola, sóc en Marcel Cayuela
