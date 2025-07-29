@@ -36,7 +36,6 @@
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/marcel-cayuela-dolcet-1a29a62b0)  
-- [Instagram](https://instagram.com/marcelcayuela_)  
 - 📧 mcayueladolcet@gmail.com
 
 ---
@@ -67,7 +66,6 @@
 ### 📫 Contacte
 
 - [LinkedIn](https://www.linkedin.com/in/marcel-cayuela-dolcet-1a29a62b0)  
-- [Instagram](https://instagram.com/marcelcayuela_)  
 - 📧 mcayueladolcet@gmail.com
 
 ---
@@ -98,7 +96,6 @@
 ### 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/marcel-cayuela-dolcet-1a29a62b0)  
-- [Instagram](https://instagram.com/marcelcayuela_)  
 - 📧 mcayueladolcet@gmail.com
 
 ---
