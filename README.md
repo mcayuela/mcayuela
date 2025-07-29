@@ -15,7 +15,7 @@
 
 ### 👋 Hi, I'm Marcel Cayuela
 
-🎓 SMX Student | Future DAW Student  
+🎓 DAW Student  
 💻 Passionate about **coding**, **automation**, and **technology**  
 🚀 I love discovering tools and optimizing processes.
 
@@ -46,7 +46,7 @@
 
 ### 👋 Hola, sóc en Marcel Cayuela
 
-🎓 Estudiant de **SMX** | Futur estudiant de **DAW**  
+🎓 Estudiant de **DAW**  
 💻 Apassionat per la **programació**, l’**automatització** i la **tecnologia**  
 🚀 M'encanta descobrir noves eines i optimitzar processos.
 
@@ -77,7 +77,7 @@
 
 ### 👋 Hola, soy Marcel Cayuela
 
-🎓 Estudiante de **SMX** | Futuro estudiante de **DAW**  
+🎓 Estudiante de **DAW**  
 💻 Apasionado por la **programación**, la **automatización** y la **tecnología**  
 🚀 Me encanta descubrir nuevas herramientas y optimizar procesos.
 
